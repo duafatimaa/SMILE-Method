@@ -12,4 +12,4 @@ The method consists of a 5-step process that guides individuals through their le
 Overall, the SMILE Method™ aims to create a self-motivated learning environment where individuals are inspired to pursue their passions, collaborate with others, and contribute to the betterment of society. By following this 5-step process, individuals can cultivate a lifelong love for learning, personal growth, and community engagement.
                                                   
                                                    
-                                                   ![image](https://github.com/duafatimaa/SMILE-Method/assets/126259467/360d19cc-6a94-4128-b9a3-06c428e0b478)
+                                        ![SMILE Method](https://github.com/duafatimaa/SMILE-Method/assets/126259467/8eacee19-9b85-47c3-9d8a-931ba78387a4)
