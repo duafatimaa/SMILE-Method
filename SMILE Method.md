@@ -10,3 +10,6 @@ The method consists of a 5-step process that guides individuals through their le
 - Engage in Community Development: The final step of the SMILE Method™ emphasizes giving back to the community and sharing acquired wisdom with others. Individuals are encouraged to use their knowledge and skills to make a positive impact on their communities. This can be done through mentoring, volunteering, or initiating community projects that address local needs.
 
 Overall, the SMILE Method™ aims to create a self-motivated learning environment where individuals are inspired to pursue their passions, collaborate with others, and contribute to the betterment of society. By following this 5-step process, individuals can cultivate a lifelong love for learning, personal growth, and community engagement.
+                                                  
+                                                   
+                                                   ![image](https://github.com/duafatimaa/SMILE-Method/assets/126259467/360d19cc-6a94-4128-b9a3-06c428e0b478)
